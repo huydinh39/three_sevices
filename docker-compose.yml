@@ -24,7 +24,7 @@ services:
       - PMA_HOST=mysql
       - UPLOAD_LIMIT=500M
     ports:
-      - "3306:80"
+      - "33060:80"
 
   nodered:
     image: nhdinh/node-red:2.2.2
@@ -37,7 +37,7 @@ services:
     volumes:
       - node_red_data:/data
     ports:
-      - "1880:1880"
+      - "18800:1880"
 
 networks:
   mynetwork:
