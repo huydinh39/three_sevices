@@ -7,6 +7,8 @@ Includes 3 services: mysql:8.0.32, phpmyadmin:5.2.1, node-red:2.2.2.
 3. Access Node-red:<br/>
 	http://localhost:18800
 4. Access phpMyAdmin:<br/>
-	http://localhost:33060, user: root, pass: root
+	http://localhost:33060<br/>
+	user: root<br/>
+	pass: root
 5. Stop and remove services:<br/>
 	**docker compose down**
