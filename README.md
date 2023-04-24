@@ -6,7 +6,7 @@ Includes 3 services: mysql:8.0.32, phpmyadmin:5.2.1, node-red:2.2.2.
 ```
    git clone https://github.com/huydinh39/three_sevices
 ```
-3. Run following command same folder with docker-compose.yml:
+3. Run the following command in the same directory as docker-compose.yml:
 ```
    docker compose up -d
 ```
