@@ -12,13 +12,14 @@ Includes 3 services: mysql:8.0.32, phpmyadmin:5.2.1, node-red:2.2.2.
 ```
 	http://localhost:18800
 ```
-5. Access phpMyAdmin:
+5. Access phpMyAdmin:<br/>
+	user: root<br/>
+	pass: root
 ```
 	http://localhost:33060
 ```
-	user: root<br/>
-	pass: root
-6. Stop and remove services:<br/>
+
+6. Stop and remove services:
 ```
 	docker compose down
 ```
