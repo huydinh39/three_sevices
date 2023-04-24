@@ -14,8 +14,7 @@ Includes 3 services: mysql:8.0.32, phpmyadmin:5.2.1, node-red:2.2.2.
 ```
    http://localhost:18800
 ```
-5. Access phpMyAdmin:<br/>
-   user: root, pass: root
+5. Access phpMyAdmin: user: **root**, pass: **root**
 ```
    http://localhost:33060
 ```
