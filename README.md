@@ -14,6 +14,8 @@ Includes 3 services: mysql:8.0.32, phpmyadmin:5.2.1, node-red:2.2.2.
 ```
    http://localhost:18800
 ```
+If you use node-red-node-mysql, then host: `mysql`
+
 5. Access phpMyAdmin: `user: root, password: root`
 ```
    http://localhost:33060
