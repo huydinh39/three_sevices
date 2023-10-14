@@ -1,7 +1,7 @@
 # three_sevices
 Includes 3 services: mysql:8.0.32, phpmyadmin:5.2.1, node-red:2.2.2.
 
-1. Install docker and docker compose on your machine.
+1. Install docker and docker compose on your machine (Only run on amd64).
 2. Clone this Repositories:
 ```
    git clone https://github.com/huydinh39/three_sevices
